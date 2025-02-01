@@ -1,0 +1,22 @@
+/* rafting.css */
+:root {
+    --primary-color: #c185b8d7;
+    --secondary-color: #08074fd7;
+    --accent1-color: #d192d3;
+    --accent2-color: #0a0f5e;
+}
+
+body {
+    font-family: 'Font2', sans-serif;
+    color: var(--secondary-color);
+    background-color: var(--primary-color);
+    margin: 1.0em;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header,
+footer {
+    background-color: var(--accent1-color);
+    color: var(--accent2-color);
+}
