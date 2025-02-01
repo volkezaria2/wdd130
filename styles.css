@@ -1,0 +1,47 @@
+nav {
+    background-color: rgb(19, 221, 221);
+    padding: 10px;
+}
+
+nav a {
+    color: rgb(35, 37, 35);
+    display: block;
+    padding: 20px;
+}
+
+h1 {
+    color: darkpurple;
+}
+
+main img {
+    width: 150px;
+    height: auto;
+    border: 1px solid rgb(230, 12, 153);
+    padding: 2px;
+    box-shadow: 0 0 40px rgb(0, 229, 255);
+}
+
+p {
+    padding: 0;
+}
+
+aside {
+    width: 20rem;
+    margin: 1rem;
+    border: 1px s0lid rgba(22, 187, 247, 0.947);
+    padding: 1rem;
+    background-color: #e0dbe8;
+    color: #be09e3;
+    text-align: center;
+}
+
+aside image {
+    width: 200px;
+    height: auto;
+}
+
+footer {
+    margin-top: 15px;
+    border-top: 1px solid #be09e3;
+    text-align: center;
+}
